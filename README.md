@@ -7,8 +7,7 @@ This list is made to aknowledge and connect with all the great people who build 
 | ------ | ------ | --------|
 | Angular | Misko Hevery   | [@mhevery](https://twitter.com/mhevery) |
 | Babel | Sebastian McKenzie| [@sebmck](https://twitter.com/sebmck)  |
-| Ember.js | Yehuda Katz| [@wycats](https://twitter.com/wycats)  |
-
+| Ember.js | Yehuda Katz | [@wycats](https://twitter.com/wycats)  |
 | jQuery | John Resig| [@jeresig](https://twitter.com/jeresig)  |
 | Preact | Jason Miller| [@_devlopit](https://twitter.com/_developit)  |
 | React | Jordan Walke| [@jordwalke](https://twitter.com/jordwalke) 

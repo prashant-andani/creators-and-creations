@@ -5,7 +5,7 @@ List of all the awesome creations by the awesome creators
 List of creators and authors of a Languages, Frameworks and Libraries. 
 This list is made to aknowledge and connect with all the great people who build awesome things for the community.
 
-| What | Original Author(s) | @ Twitter|
+| What | Who | @ Twitter|
 | ------ | ------ | --------|
 | Angular | Misko Hevery| [@mhevery](https://twitter.com/mhevery) |
 |Babel | Sebastian McKenzie| [@sebmck](https://twitter.com/sebmck)  |

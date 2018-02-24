@@ -1,4 +1,4 @@
-# creator-of-creation
+# Creator-and-Creation
 List of all the awesome creations by the awesome creators 
 
 ### Creators

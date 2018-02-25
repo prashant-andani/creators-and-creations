@@ -1,7 +1,7 @@
 # Creators-and-Creations
 
 List of creators and authors of a Languages, Frameworks and Libraries. 
-##This list is made to aknowledge and connect with all the great people who build awesome things for the Open Source community.
+## This list is made to aknowledge and connect with all the great people who build awesome things for the Open Source community.
 
 | What | Who | @ Twitter| Github | 
 | ------ | ------ | --------| ---------|

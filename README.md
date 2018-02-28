@@ -3,11 +3,14 @@
 List of creators and authors of a Languages, Frameworks and Libraries. 
 ## This list is made to acknowledge and connect with all the great contributors who build awesome things for the Open Source community.
 
-| What | Who | @ Twitter| Github | 
+| What | Who | Twitter| Github | 
 | ------ | ------ | --------| ---------|
 | Angular | Misko Hevery   | [@mhevery](https://twitter.com/mhevery) | [mhevery](https://github.com/mhevery)
 | Babel | Sebastian McKenzie| [@sebmck](https://twitter.com/sebmck)  | [kittens](https://github.com/kittens)
+| Backbone.js | Jeremy Ashkenas| [@jashkenas](https://twitter.com/jashkenas)  | [jashkenas](https://github.com/jashkenas)
+
 | Ember.js | Yehuda Katz | [@wycats](https://twitter.com/wycats)  | [wycats](https://github.com/wycats)
+| Font Awesome | Dave Gandy| [@davegandy](https://twitter.com/davegandy)  | [davegandy](https://github.com/davegandy)
 | jQuery | John Resig| [@jeresig](https://twitter.com/jeresig)  | [jeresig](https://github.com/jeresig)
 | Preact | Jason Miller| [@_devlopit](https://twitter.com/_developit)  | [developit](https://github.com/developit)
 | React | Jordan Walke| [@jordwalke](https://twitter.com/jordwalke) | [jordwalke](https://github.com/jordwalke)

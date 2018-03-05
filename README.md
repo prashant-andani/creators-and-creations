@@ -21,7 +21,7 @@ List of creators and authors of a Languages, Frameworks and Libraries.
 | NPM   | Isaac Z. Schlueter| [@izs](https://twitter.com/izs) | [isaacs](https://github.com/isaacs)
 | Underscore.js | Jeremy Ashkenas| [@jashkenas](https://twitter.com/jashkenas)  | [jashkenas](https://github.com/jashkenas)|
 | Vue.js  | Evan you| [@youyuxi](https://twitter.com/youyuxi) | [yyx990803](https://github.com/yyx990803)
-| Webpack | Kent C. Dodds| [@kentcdodds](https://twitter.com/kentcdodds) | [kentcdodds](https://github.com/kentcdodds)
+| Webpack | Tobias Koppers| [@wSokra](https://twitter.com/wSokra) | [sokra](https://github.com/sokra)
 
 
 ### Feel free to contribute

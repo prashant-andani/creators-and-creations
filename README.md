@@ -12,7 +12,7 @@ List of creators and authors of a Languages, Frameworks and Libraries.
 | Ember.js | Yehuda Katz | [@wycats](https://twitter.com/wycats)  | [wycats](https://github.com/wycats)|
 | Font Awesome | Dave Gandy| [@davegandy](https://twitter.com/davegandy)  | [davegandy](https://github.com/davegandy)
 | jQuery | John Resig| [@jeresig](https://twitter.com/jeresig)  | [jeresig](https://github.com/jeresig)
-| Lodash | John-David Dalton| [@jdalton](https://twitter.com/jdalton)  | [jdalton](https://twitter.com/jdalton)
+| Lodash | John-David Dalton| [@jdalton](https://twitter.com/jdalton)  | [jdalton](https://github.com/jdalton)
 | Preact | Jason Miller| [@_devlopit](https://twitter.com/_developit)  | [developit](https://github.com/developit)
 | React | Jordan Walke| [@jordwalke](https://twitter.com/jordwalke) | [jordwalke](https://github.com/jordwalke)
 | Redux | Dan Abramov | [@dan_abramov](https://twitter.com/dan_abramov) |[gaearon](https://github.com/gaearon)
